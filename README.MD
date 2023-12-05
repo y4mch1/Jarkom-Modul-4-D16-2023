@@ -37,3 +37,27 @@
 
 ### Table
 ![topologi]( https://media.discordapp.net/attachments/1170761960443347105/1181457026975551569/image.png?ex=65812099&is=656eab99&hm=fc2a32d4cb244e2fb2c52f60d37a838e64ba0d7cba19a512e80a1166b91f8747&=&format=webp&quality=lossless&width=1369&height=649 )
+
+### Setting Cisco
+Contoh Setting pada Aura dan Frieren
+
+
+Aura
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+
+Frieren
+
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+
+### Contoh apabila berhasil
+
+![Alt text](image-10.png)
