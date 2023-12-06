@@ -22,6 +22,9 @@
 ![Alt text](treevlsm.jpg)
 
 
+### Tabel
+![Alt text](tabelvlsm.png)
+
 
 ## CIDR - CISCO 
 ### Penggabungan
