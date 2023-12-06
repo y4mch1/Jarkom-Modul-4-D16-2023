@@ -21,6 +21,9 @@
 ### Tree
 ![Alt text](treevlsm.jpg)
 
+### Tabel
+![Alt text](tabelvlsm.png)
+
 
 ### Config
 
@@ -398,9 +401,6 @@ address 192.199.14.0
 netmask 255.255.252.0
 gateway 192.199.12.1
 ```
-
-### Tabel
-![Alt text](tabelvlsm.png)
 
 
 ## CIDR - CISCO 
