@@ -18,6 +18,10 @@
 ![topologi](https://media.discordapp.net/attachments/1170761960443347105/1181451586598342686/image.png?ex=65811b88&is=656ea688&hm=4ed39e75fedc557af0b923b2150c2508c31df5fa34f3b7810b7bc20bdcf8e24f&=&format=webp&quality=lossless&width=1215&height=700)
 
 ## VLSM - GNS
+###Tree
+![Alt text](treevlsm.jpg)
+
+
 
 ## CIDR - CISCO 
 ### Penggabungan
